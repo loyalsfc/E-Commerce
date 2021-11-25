@@ -1,0 +1,10 @@
+/*  CREATED COLOR VARIABLES FOR EASE OF ACCESS AND MAINTENANCE IN THE MAIN CSS*/
+:root{
+    --pink: #F551A9;
+    --body-bg: #faeff3;
+    --formBackground: #F1E6EA;
+    --titleTextColor: #393939;
+    --labelTextColor: #000000;
+    --inputsBackground: #FFFFFF;
+    --latoNormalBold: lato;
+}
